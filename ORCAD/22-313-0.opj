@@ -1,0 +1,123 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[05/05/23]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File
+         "c:\users\marco\documents\data\orcad\capture_lib\approved\semiconductors.olb"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\marco\documents\data\orcad\capture_lib\pending\semiconductors.olb"
+        (Type "Schematic Library"))
+      (File "..\lib\library.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\22-313-0.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (Display_Online_DRC_Results "FALSE"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (B2B-PH-2x1-VERTICALE
+      (FullPartName "B2B-PH-2x1-VERTICALE.Normal")
+      (LibraryName
+         "C:\USERS\MARCO\DOCUMENTS\DATA\ORCAD\CAPTURE_LIB\APPROVED\CONNECTORS.OLB")
+      (DeviceIndex "0"))
+    (AMP-CT-2-VERTICALE
+      (FullPartName "AMP-CT-2-VERTICALE.Normal")
+      (LibraryName
+         "C:\USERS\MARCO\DOCUMENTS\DATA\ORCAD\CAPTURE_LIB\PENDING\CONNECTORS.OLB")
+      (DeviceIndex "0"))
+    (D_1N4148WT
+      (FullPartName "D_1N4148WT.Normal")
+      (LibraryName
+         "C:\USERS\MARCO\DOCUMENTS\DATA\ORCAD\CAPTURE_LIB\APPROVED\SEMICONDUCTORS.OLB")
+      (DeviceIndex "0"))
+    (PMEG050V150EPEZ
+      (FullPartName "PMEG050V150EPEZ.Normal")
+      (LibraryName
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-22-313\LIB\LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (LM2903BQDDFRQ1
+      (FullPartName "LM2903BQDDFRQ1.Normal")
+      (LibraryName
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-22-313\LIB\LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (NMOS_DPAK
+      (FullPartName "NMOS_DPAK.Normal")
+      (LibraryName
+         "C:\USERS\MARCO\DOCUMENTS\DATA\ORCAD\CAPTURE_LIB\PENDING\SEMICONDUCTORS.OLB")
+      (DeviceIndex "0"))
+    (FORO_HEART_0
+      (FullPartName "FORO_HEART_0.Normal")
+      (LibraryName
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-22-313\ORCAD\22-313-0.DSN")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "marco")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\22-313-0.dsn")
+      (Path "Design Resources" ".\22-313-0.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "c:\users\marco\documents\data\orcad\capture_lib\pending\semiconductors.olb")
+      (Path "Design Resources" "Library" "..\lib\library.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 548 0 888"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1073 24 929")
+        (Scroll "-4 -55")
+        (Zoom "106")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-22-313\ORCAD\22-313-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "SAFETY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1073 24 929")
+        (Scroll "-8 -58")
+        (Zoom "105")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-22-313\ORCAD\22-313-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1073 24 929")
+        (Scroll "-8 -58")
+        (Zoom "105")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-22-313\ORCAD\22-313-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "BRAKE"))))
