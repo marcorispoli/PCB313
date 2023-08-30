@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SSM3K341R,LF
+D Trans MOSFET N-CH Si 60V 6A Automotive 3-Pin SOT-23F T/R
+K
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=35714&prodName=SSM3K341R
+$ENDCMP
+#
+#End Doc Library
