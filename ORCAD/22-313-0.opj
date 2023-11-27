@@ -1,6 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[07/06/23]")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[11/27/23]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -179,18 +179,43 @@
       (LibraryName
          "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-22-313\ORCAD\22-313-0.DSN")
       (DeviceIndex "0")))
-  (MPSSessionName "Osvy")
+  (MPSSessionName "marco")
   (GlobalState
     (FileView
       (Path "Design Resources")
+      (Path "Design Resources" ".\22-313-0.dsn")
+      (Path "Design Resources" ".\22-313-0.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\22-313-0.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 1056"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 911"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1639 24 929")
+        (Scroll "-224 -8")
+        (Zoom "119")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-22-313\ORCAD\22-313-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "VERT_MOTOR_INTERFACE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1639 24 929")
+        (Scroll "-224 -8")
+        (Zoom "119")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-22-313\ORCAD\22-313-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "BODY_MOTOR_INTERFACE")))
   (LastUsedLibraryBrowseDirectory
      "C:\Users\marco\Documents\Data\ORCAD\CAPTURE_LIB\Approved")
   (ISPCBBASICLICENSE "false"))
