@@ -1,6 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[11/27/23]")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[01/09/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -183,11 +183,16 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\22-313-0.dsn")
-      (Path "Design Resources" ".\22-313-0.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "c:\users\marco\documents\data\progetti-git\hw\pcb-22-313\orcad\22-313-0.dsn")
+      (Path "Design Resources"
+         "c:\users\marco\documents\data\progetti-git\hw\pcb-22-313\orcad\22-313-0.dsn"
+         "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\22-313-0.dsn"))
+      (Select "Design Resources"
+         "c:\users\marco\documents\data\progetti-git\hw\pcb-22-313\orcad\22-313-0.dsn"
+         "SCHEMATIC1" "VERT_MOTOR_INTERFACE"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
